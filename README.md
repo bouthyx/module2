@@ -1,1 +1,1 @@
-# module2
+# bouthyx.module2
